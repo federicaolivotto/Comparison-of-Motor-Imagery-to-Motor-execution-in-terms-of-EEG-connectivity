@@ -155,3 +155,10 @@ See full discussion and references in:
 EEG_report.pdf
 ```
 
+---
+
+## Author
+**Federica Maria Olivotto**
+
+**Andrea Peroni**
+
