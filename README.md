@@ -16,11 +16,11 @@ The goal is to understand how brain network organization changes across conditio
 ---
 
 ## Repository Structure
-'''
+```
 ├── eeg_connectivity_analysis.m % Core connectivity computation
 ├── plot_connectivity_metrics.m % Visualization of results
 ├── EEG_report.pdf % Full project report
-'''
+```
 
 ---
 
@@ -151,5 +151,7 @@ Make sure:
 ## References
 
 See full discussion and references in:
-'EEG_report.pdf'
+```
+EEG_report.pdf
+```
 
